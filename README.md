@@ -2,9 +2,9 @@
 
 > **Built at home to get my wireless Xbox 360 guitars back to work on PlayStation 5 — free and open source for everyone to use!**
 
-| Xbox 360 PC Wireless USB Receiver | Wireless Xbox 360 Controller / Guitar |
-| :---: | :---: |
-| <img src="assets/xbox360-wireless-receiver.png" alt="Xbox 360 PC Wireless Gaming Receiver" width="320" /> | <img src="assets/xbox360-wireless-controller.png" alt="Wireless Xbox 360 Controller" width="320" /> |
+| Xbox 360 PC Wireless USB Receiver | Wireless Xbox 360 Guitar | Wireless Xbox 360 Controller |
+| :---: | :---: | :---: |
+| <img src="assets/xbox360-wireless-receiver.png" alt="Xbox 360 PC Wireless Gaming Receiver" width="240" /> | <img src="assets/xbox360-guitar.png" alt="Xbox 360 Wireless Guitar Hero Guitar" width="280" /> | <img src="assets/xbox360-wireless-controller.png" alt="Wireless Xbox 360 Controller" width="240" /> |
 
 A jailbroken PlayStation 5 ELF payload (`Xbox360Receiver.elf`) that lets you plug a **Microsoft Xbox 360 PC Wireless Gaming Receiver** (and compatible third-party USB clones) into your PS5 to connect up to **4 wireless Xbox 360 controllers or guitars**.
 
